@@ -1,0 +1,56 @@
+﻿  main.cpp
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(288,25): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(270): message : al compilar la función del miembro clase plantilla "ADE::Persistence::PartialNode<Type> &ADE::Persistence::PartialNode<Type>::operator [](std::pair<size_t,unsigned int>) const"
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\main.cpp(40): message : Vea la referencia a la creación de una instancia de la función plantilla "ADE::Persistence::PartialNode<Type> &ADE::Persistence::PartialNode<Type>::operator [](std::pair<size_t,unsigned int>) const" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\main.cpp(18): message : Vea la referencia a la creación de una instancia de clase plantilla "ADE::Persistence::PartialNode<Type>" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(111,24): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(84): message : al compilar la función del miembro clase plantilla "int ADE::Persistence::PartialNode<Type>::get_data(unsigned int)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\main.cpp(80): message : Vea la referencia a la creación de una instancia de la función plantilla "int ADE::Persistence::PartialNode<Type>::get_data(unsigned int)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(387,25): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(379): message : al compilar la función del miembro clase plantilla "Node *ADE::Persistence::PartialDirectedGraph<int,Node>::get_root_ptr(unsigned int)"
+          with
+          [
+              Node=ADE::Persistence::PartialNode<int>
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\main.cpp(17): message : Vea la referencia a la creación de una instancia de la función plantilla "Node *ADE::Persistence::PartialDirectedGraph<int,Node>::get_root_ptr(unsigned int)" que se está compilando
+          with
+          [
+              Node=ADE::Persistence::PartialNode<int>
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\main.cpp(14): message : Vea la referencia a la creación de una instancia de clase plantilla "ADE::Persistence::PartialDirectedGraph<int,ADE::Persistence::PartialNode<Type>>" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(64,25): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(58): message : al compilar la función del miembro clase plantilla "ADE::Persistence::PartialNode<Type> *ADE::Persistence::PartialNode<Type>::look_root(unsigned int)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\source\PartialDirectedGraph.hpp(89): message : Vea la referencia a la creación de una instancia de la función plantilla "ADE::Persistence::PartialNode<Type> *ADE::Persistence::PartialNode<Type>::look_root(unsigned int)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+  persistence.vcxproj -> C:\Users\wilbe\OneDrive\Escritorio\EDAPartial\persistence\build\Debug\persistence.exe
